@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <title>作品タイトル</title>
     <style>
-        /* 画像を中央に寄せ、縦に並べるための設定 */
+        
         body { text-align: center; margin: 0; padding: 20px; background-color: #f0f0f0; }
         .manga-container { max-width: 800px; margin: 0 auto; background: #fff; padding: 10px; }
         img { width: 100%; height: auto; display: block; margin-bottom: 10px; }
@@ -24,7 +24,7 @@
         <img src="img_3313.jpeg">
         <img src="img_3314.jpeg">
         <img src="img_3315.jpeg">
-        <!-- 画像が増えるたびに、上の行を増やしてファイル名を書き換えるだけです -->
+        
 
         <hr>
         <p><a href="index.html">トップへ戻る</a></p>
